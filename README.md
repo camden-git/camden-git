@@ -2,6 +2,8 @@
 
 # Camden
 Hello!
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 My name is Camden, I help out at [Stellanode](https://discord.gg/gyEFdG4eAB), most of my work is closed source, though I try to put some things on here. 
 
