@@ -10,5 +10,5 @@ My name is Camden, I help out at [Stellanode](https://discord.gg/gyEFdG4eAB), mo
 
 I am currently working on builing [spot micro](https://github.com/mike4192/spotMicro), and a few pterodactyl 1.x addons and themes. 
 
-You can contact me on my discord `Camden #7293`
+You can contact me on my discord `Camden #9999`
 
